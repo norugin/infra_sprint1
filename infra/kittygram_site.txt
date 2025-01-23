@@ -1,0 +1,5 @@
+IP: 84.252.138.112;
+name_taski: https://norugin.zapto.org/;
+name_kittygram: https://kittynorugin.duckdns.org/;
+login: norugin;
+password: 123;
